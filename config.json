@@ -2,7 +2,7 @@
     "fov": 4.0,
     "keybind": 16,
     "shooting_rate": 100.0,
-    "fps": 144.0,
+    "fps": 500.0,
     "hsv_range": [
         [
             30,
